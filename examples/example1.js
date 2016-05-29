@@ -1,5 +1,5 @@
 //Import pyd
-var pyramid = require('../pyd.js');
+var pyd = require('../pyd.js');
 
 //Function1
 function Function1(v, cb){ return cb(v + 1); }
