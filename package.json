@@ -1,0 +1,11 @@
+{
+  "name": "pyd",
+  "version": "1.0.0-alpha",
+  "description": "Run pyramid structures in Node.JS via the simple way",
+  "main": "pyd.js",
+  "author": "Josemi Juanes <josemijuanes@gmail.com>",
+  "license": "MIT",
+  "dependencies": { },
+  "repository": {"type": "git", "url": "https://github.com/jmjuanes/pyd.git"},
+  "keywords": [ "pyd", "pyramid", "doom" ]
+}
